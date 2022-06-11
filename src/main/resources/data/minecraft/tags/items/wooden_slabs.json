@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "mzojpaint:red_slab",
+  	"mzojpaint:black_slab",
+    "mzojpaint:brown_slab",
+    "mzojpaint:cyan_slab",
+    "mzojpaint:gray_slab",
+    "mzojpaint:green_slab",
+    "mzojpaint:light_blue_slab",
+    "mzojpaint:light_gray_slab",
+    "mzojpaint:lime_slab",
+    "mzojpaint:magenta_slab",
+    "mzojpaint:orange_slab",
+    "mzojpaint:pink_slab",
+    "mzojpaint:white_slab",
+    "mzojpaint:blue_slab",
+    "mzojpaint:yellow_slab",
+    "mzojpaint:purple_slab",
+    "mzojpaint:paper_slab"  
+  ]
+}

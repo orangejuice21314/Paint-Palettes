@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "mzojpaint:blocks/green_door_top",
+    "bottom": "mzojpaint:blocks/green_door_bottom"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "mzojpaint:red_plate",
+  	"mzojpaint:black_plate",
+    "mzojpaint:brown_plate",
+    "mzojpaint:cyan_plate",
+    "mzojpaint:gray_plate",
+    "mzojpaint:green_plate",
+    "mzojpaint:light_blue_plate",
+    "mzojpaint:light_gray_plate",
+    "mzojpaint:lime_plate",
+    "mzojpaint:magenta_plate",
+    "mzojpaint:orange_plate",
+    "mzojpaint:pink_plate",
+    "mzojpaint:white_plate",
+    "mzojpaint:blue_plate",
+    "mzojpaint:yellow_plate",
+    "mzojpaint:purple_plate",
+    "mzojpaint:wallpaper_plate"  
+  ]
+}

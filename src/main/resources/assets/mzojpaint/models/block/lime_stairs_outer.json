@@ -1,0 +1,8 @@
+{
+	"parent": "block/outer_stairs",
+	"textures": {
+		"bottom": "mzojpaint:blocks/lime_plank",
+		"top": "mzojpaint:blocks/lime_plank",
+		"side": "mzojpaint:blocks/lime_plank"
+	}
+}
