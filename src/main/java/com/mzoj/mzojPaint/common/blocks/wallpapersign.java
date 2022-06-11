@@ -92,9 +92,105 @@ public class wallpapersign extends StandingSignBlock {
 				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
 			}
 			//red
-			if (item.is(ItemInit.BLACK_PAINT.get())) {
+			if (item.is(ItemInit.BLACK_PAINTBRUSH.get())) {
 				p_60506_.swing(p_60507_);
 				BlockState blockstate = BlockInit.BLACK_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			
+			//red
+			if (item.is(ItemInit.BLUE_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.BLUE_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.BROWN_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.BROWN_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.CYAN_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.CYAN_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			
+			//red
+			if (item.is(ItemInit.LIGHT_BLUE_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.LIGHT_BLUE_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.LIGHT_GRAY_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.LIGHT_GRAY_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.GRAY_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.GRAY_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			
+			//red
+			if (item.is(ItemInit.ORANGE_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.ORANGE_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.YELLOW_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.YELLOW_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.PURPLE_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.PURPLE_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			
+			//red
+			if (item.is(ItemInit.PINK_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.PINK_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.MAGENTA_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.MAGENTA_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			//red
+			if (item.is(ItemInit.GREEN_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.GREEN_SIGN.get().defaultBlockState();	
+				setSign(p_60503_, blockstate, p_60505_, p_60504_);
+				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
+			}
+			
+			//red
+			if (item.is(ItemInit.LIME_PAINTBRUSH.get())) {
+				p_60506_.swing(p_60507_);
+				BlockState blockstate = BlockInit.LIME_SIGN.get().defaultBlockState();	
 				setSign(p_60503_, blockstate, p_60505_, p_60504_);
 				wallpaper.damageItem(p_60506_.getOffhandItem(), p_60506_, false);
 			}

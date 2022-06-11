@@ -668,7 +668,7 @@ public class BlockInit {
 		
 		// plank paper	
 		public static final RegistryObject<paintedwallsign> WHITE_WALLSIGN = BLOCKS.register("white_wallsign", () -> 
-		new paintedwallsign(Block.Properties.copy(Blocks.OAK_SIGN), WoodType.OAK));
+		new paintedwallsign(Block.Properties.copy(Blocks.OAK_SIGN), WoodTypeInit.WHITE_WOOD));
 
 		// plank paper	
 		public static final RegistryObject<paintedwallsign> YELLOW_WALLSIGN = BLOCKS.register("yellow_wallsign", () -> 
