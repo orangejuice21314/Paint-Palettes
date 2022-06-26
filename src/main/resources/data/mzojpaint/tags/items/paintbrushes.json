@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"mzojpaint:paintbrush",
+		"mzojpaint:black_paintbrush",
+		"mzojpaint:brown_paintbrush",
+		"mzojpaint:cyan_paintbrush",
+		"mzojpaint:gray_paintbrush",
+		"mzojpaint:green_paintbrush",
+		"mzojpaint:light_blue_paintbrush",
+		"mzojpaint:light_gray_paintbrush",
+		"mzojpaint:lime_paintbrush",
+		"mzojpaint:magenta_paintbrush",
+		"mzojpaint:orange_paintbrush",
+		"mzojpaint:pink_paintbrush",
+		"mzojpaint:purple_paintbrush",
+		"mzojpaint:red_paintbrush",
+		"mzojpaint:white_paintbrush",
+		"mzojpaint:yellow_paintbrush",
+		"mzojpaint:blue_paintbrush"
+	]
+
+}

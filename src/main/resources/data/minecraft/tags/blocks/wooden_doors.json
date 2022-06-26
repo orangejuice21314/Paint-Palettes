@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"mzojpaint:paper_door",
+	"mzojpaint:red_door",
+	"mzojpaint:black_door",
+	"mzojpaint:brown_door",
+	"mzojpaint:cyan_door",
+	"mzojpaint:blue_door",
+	"mzojpaint:gray_door",
+	"mzojpaint:green_door",
+	"mzojpaint:light_blue_door",
+	"mzojpaint:light_gray_door",
+	"mzojpaint:lime_door",
+	"mzojpaint:magenta_door",
+	"mzojpaint:pink_door",
+	"mzojpaint:white_door",
+	"mzojpaint:yellow_door",
+	"mzojpaint:purple_door",
+	"mzojpaint:orange_door"
+  ]
+}

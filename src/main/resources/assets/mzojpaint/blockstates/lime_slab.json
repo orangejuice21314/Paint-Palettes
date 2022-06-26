@@ -1,0 +1,14 @@
+{
+"variants": {
+	"type=bottom": {
+		"model": "mzojpaint:block/lime_slab"
+	},
+	"type=double": {
+		"model": "mzojpaint:block/lime_plank"
+	},
+	"type=top": {
+		"model": "mzojpaint:block/lime_slab_top"
+	}
+
+}
+}

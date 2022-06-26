@@ -1,0 +1,14 @@
+{
+"variants": {
+	"type=bottom": {
+		"model": "mzojpaint:block/cyan_slab"
+	},
+	"type=double": {
+		"model": "mzojpaint:block/cyan_plank"
+	},
+	"type=top": {
+		"model": "mzojpaint:block/cyan_slab_top"
+	}
+
+}
+}

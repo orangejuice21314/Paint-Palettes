@@ -1,0 +1,8 @@
+{
+	"parent": "block/inner_stairs",
+	"textures": {
+		"bottom": "mzojpaint:blocks/magenta_plank",
+		"top": "mzojpaint:blocks/magenta_plank",
+		"side": "mzojpaint:blocks/magenta_plank"
+	}
+}

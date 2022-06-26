@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "mzojpaint:blocks/green_plank",
+		"top": "mzojpaint:blocks/green_plank",
+		"side": "mzojpaint:blocks/green_plank"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"mzojpaint:wallpaper_block",
+	"mzojpaint:red_plank",
+	"mzojpaint:black_plank",
+	"mzojpaint:brown_plank",
+	"mzojpaint:cyan_plank",
+	"mzojpaint:blue_plank",
+	"mzojpaint:gray_plank",
+	"mzojpaint:green_plank",
+	"mzojpaint:light_blue_plank",
+	"mzojpaint:light_gray_plank",
+	"mzojpaint:lime_plank",
+	"mzojpaint:magenta_plank",
+	"mzojpaint:pink_plank",
+	"mzojpaint:white_plank",
+	"mzojpaint:yellow_plank",
+	"mzojpaint:purple_plank",
+	"mzojpaint:orange_plank"
+  ]
+}
