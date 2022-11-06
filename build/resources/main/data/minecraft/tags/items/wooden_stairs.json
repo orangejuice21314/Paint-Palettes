@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "mzojpaint:red_stair",
+  	"mzojpaint:black_stair",
+    "mzojpaint:brown_stair",
+    "mzojpaint:cyan_stair",
+    "mzojpaint:gray_stair",
+    "mzojpaint:green_stair",
+    "mzojpaint:light_blue_stair",
+    "mzojpaint:light_gray_stair",
+    "mzojpaint:lime_stair",
+    "mzojpaint:magenta_stair",
+    "mzojpaint:orange_stair",
+    "mzojpaint:pink_stair",
+    "mzojpaint:white_stair",
+    "mzojpaint:blue_stair",
+    "mzojpaint:yellow_stair",
+    "mzojpaint:purple_stair",
+    "mzojpaint:wallpaper_stair"
+  ]
+}

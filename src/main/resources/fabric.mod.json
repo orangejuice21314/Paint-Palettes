@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "mzojpaint",
+  "version": "${version}",
+
+  "name": "Paint Palettes",
+  "description": "Paint planks, stairs, signs, slabs, etc!",
+  "authors": [
+    "Orangejuice2131 and emzee"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mzoj.mzojpaint.Main"
+    ],
+    "fabric-datagen": [
+      "net.mzoj.mzojpaint.dataGen.DataGenerator"
+    ]
+  },
+  "mixins": [
+    "mzojpaint.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

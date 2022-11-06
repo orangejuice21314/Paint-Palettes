@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "mzojpaint:red_trapdoor",
+  	"mzojpaint:black_trapdoor",
+    "mzojpaint:brown_trapdoor",
+    "mzojpaint:cyan_trapdoor",
+    "mzojpaint:gray_trapdoor",
+    "mzojpaint:green_trapdoor",
+    "mzojpaint:light_blue_trapdoor",
+    "mzojpaint:light_gray_trapdoor",
+    "mzojpaint:lime_trapdoor",
+    "mzojpaint:magenta_trapdoor",
+    "mzojpaint:orange_trapdoor",
+    "mzojpaint:pink_trapdoor",
+    "mzojpaint:white_trapdoor",
+    "mzojpaint:blue_trapdoor",
+    "mzojpaint:yellow_trapdoor",
+    "mzojpaint:purple_trapdoor",
+    "mzojpaint:paper_trapdoor"   
+  ]
+}

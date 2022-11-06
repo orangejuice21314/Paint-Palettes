@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "net/mzoj/mzojpaint/mixin/SignTypeAccessor": {
+      "<init>": "<init>",
+      "register": "method_24027(Lnet/minecraft/class_4719;)Lnet/minecraft/class_4719;"
+    },
+    "net/mzoj/mzojpaint/mixin/InventoryChangedMixin": {
+      "updateItems": "Lnet/minecraft/class_1661;method_7381()V"
+    },
+    "net/mzoj/mzojpaint/mixin/BlockEntityTypeMixin": {
+      "supports": "Lnet/minecraft/class_2591;method_20526(Lnet/minecraft/class_2680;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/mzoj/mzojpaint/mixin/SignTypeAccessor": {
+        "<init>": "<init>",
+        "register": "method_24027(Lnet/minecraft/class_4719;)Lnet/minecraft/class_4719;"
+      },
+      "net/mzoj/mzojpaint/mixin/InventoryChangedMixin": {
+        "updateItems": "Lnet/minecraft/class_1661;method_7381()V"
+      },
+      "net/mzoj/mzojpaint/mixin/BlockEntityTypeMixin": {
+        "supports": "Lnet/minecraft/class_2591;method_20526(Lnet/minecraft/class_2680;)Z"
+      }
+    }
+  }
+}

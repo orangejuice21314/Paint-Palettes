@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "mzojpaint:blocks/magenta_door_bottom",
+    "top": "mzojpaint:blocks/magenta_door_top"
+  }
+}

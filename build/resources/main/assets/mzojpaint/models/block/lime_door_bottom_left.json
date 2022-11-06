@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "mzojpaint:blocks/lime_door_bottom",
+    "top": "mzojpaint:blocks/lime_door_top"
+  }
+}

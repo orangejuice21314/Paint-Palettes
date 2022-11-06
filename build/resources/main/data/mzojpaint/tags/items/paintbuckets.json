@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"mzojpaint:black_paint",
+		"mzojpaint:brown_paint",
+		"mzojpaint:cyan_paint",
+		"mzojpaint:gray_paint",
+		"mzojpaint:green_paint",
+		"mzojpaint:light_blue_paint",
+		"mzojpaint:light_gray_paint",
+		"mzojpaint:lime_paint",
+		"mzojpaint:magenta_paint",
+		"mzojpaint:orange_paint",
+		"mzojpaint:pink_paint",
+		"mzojpaint:purple_paint",
+		"mzojpaint:red_paint",
+		"mzojpaint:white_paint",
+		"mzojpaint:yellow_paint",
+		"mzojpaint:blue_paint"
+		
+	]
+
+}

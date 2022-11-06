@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "mzojpaint:blocks/wallpaper_block",
+		"top": "mzojpaint:blocks/wallpaper_block",
+		"side": "mzojpaint:blocks/wallpaper_block"
+	}
+}

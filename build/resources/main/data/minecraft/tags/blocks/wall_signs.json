@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"mzojpaint:wallpaper_wall_sign",
+	"mzojpaint:red_wall_sign",
+	"mzojpaint:black_wall_sign",
+	"mzojpaint:brown_wall_sign",
+	"mzojpaint:cyan_wall_sign",
+	"mzojpaint:blue_wall_sign",
+	"mzojpaint:gray_wall_sign",
+	"mzojpaint:green_wall_sign",
+	"mzojpaint:light_blue_wall_sign",
+	"mzojpaint:light_gray_wall_sign",
+	"mzojpaint:lime_wall_sign",
+	"mzojpaint:magenta_wall_sign",
+	"mzojpaint:pink_wall_sign",
+	"mzojpaint:white_wall_sign",
+	"mzojpaint:yellow_wall_sign",
+	"mzojpaint:purple_wall_sign",
+	"mzojpaint:orange_wall_sign"
+  ]
+}

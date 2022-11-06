@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"mzojpaint:wallpaper_gate",
+	"mzojpaint:red_gate",
+	"mzojpaint:black_gate",
+	"mzojpaint:brown_gate",
+	"mzojpaint:cyan_gate",
+	"mzojpaint:blue_gate",
+	"mzojpaint:gray_gate",
+	"mzojpaint:green_gate",
+	"mzojpaint:light_blue_gate",
+	"mzojpaint:light_gray_gate",
+	"mzojpaint:lime_gate",
+	"mzojpaint:magenta_gate",
+	"mzojpaint:pink_gate",
+	"mzojpaint:white_gate",
+	"mzojpaint:yellow_gate",
+	"mzojpaint:purple_gate",
+	"mzojpaint:orange_gate"
+  ]
+}

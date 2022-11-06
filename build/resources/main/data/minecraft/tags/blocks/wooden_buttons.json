@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"mzojpaint:wallpaper_button",
+	"mzojpaint:red_button",
+	"mzojpaint:black_button",
+	"mzojpaint:brown_button",
+	"mzojpaint:cyan_button",
+	"mzojpaint:blue_button",
+	"mzojpaint:gray_button",
+	"mzojpaint:green_button",
+	"mzojpaint:light_blue_button",
+	"mzojpaint:light_gray_button",
+	"mzojpaint:lime_button",
+	"mzojpaint:magenta_button",
+	"mzojpaint:pink_button",
+	"mzojpaint:white_button",
+	"mzojpaint:yellow_button",
+	"mzojpaint:purple_button",
+	"mzojpaint:orange_button"
+  ]
+}

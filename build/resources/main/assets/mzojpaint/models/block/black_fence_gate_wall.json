@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_fence_gate_wall",
+  "textures": {
+<<<<<<< HEAD
+    "texture": "mzojpaint:blocks/black_plank"
+=======
+    "texture": "mzojpaint:blocks/blacK_plank"
+>>>>>>> 1873962053c82ef0cbd40cb1aeb7723a8297edb0
+  }
+}

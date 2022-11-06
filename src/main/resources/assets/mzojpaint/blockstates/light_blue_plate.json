@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "mzojpaint:block/light_blue_plate"
+    },
+    "powered=true": {
+      "model": "mzojpaint:block/light_blue_plate_down"
+    }
+  }
+}

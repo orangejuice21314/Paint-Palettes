@@ -1,0 +1,2 @@
+v1	named	intermediary
+FIELD	net/mzoj/mzojpaint/mixin/InventoryChangedMixin	Lnet/minecraft/entity/player/PlayerEntity;	player	field_7546

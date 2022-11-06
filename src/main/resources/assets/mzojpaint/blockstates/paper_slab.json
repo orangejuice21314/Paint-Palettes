@@ -1,0 +1,14 @@
+{
+"variants": {
+	"type=bottom": {
+		"model": "mzojpaint:block/paper_slab"
+	},
+	"type=double": {
+		"model": "mzojpaint:block/wallpaper_block"
+	},
+	"type=top": {
+		"model": "mzojpaint:block/paper_slab_top"
+	}
+
+}
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag":"minecraft:wooden_pressure_plates"
+        },
+        {
+            "item": "minecraft:paper"
+        }
+    ],
+    "result": {
+        "item": "mzojpaint:wallpaper_plate",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mzoj.mzojpaint.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "InventoryChangedMixin",
+    "SignTypeAccessor",
+    "BlockEntityTypeMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
